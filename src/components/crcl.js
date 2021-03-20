@@ -20,7 +20,7 @@ return(
   <ReactBootStrap.Carousel.Item>
     <img
       className="d-block w-100"
-      src="assets/images/img1.png"
+      src="assets/images/img3.png"
       alt="First slide"
     />
     <ReactBootStrap.Carousel.Caption>
@@ -43,7 +43,7 @@ return(
   <ReactBootStrap.Carousel.Item>
     <img
       className="d-block w-100"
-      src="assets/images/img3.png"
+      src="assets/images/img1.png"
       alt="Third slide"
     />
 
