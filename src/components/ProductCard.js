@@ -16,13 +16,13 @@ class ProductCard extends Component {
 		
         <Container>
  <Row style={{color:'#ff007f'}}>
-     <Col>
+ <Col xs lg="2">
      <p>====================</p>
      </Col>
-     <Col>
+     <Col xs lg="2">
      <p >Our Range Of Products</p>
      </Col>
-     <Col>
+     <Col xs lg="2">
      <p>================</p>
      </Col>
  </Row>
