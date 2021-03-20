@@ -1,7 +1,31 @@
 .App {
   text-align: center;
 }
-
+#navdrpdwnitem{
+  color:#ff007f;
+ 
+    
+  }
+#navitem
+{
+  color:white;
+  content: '|';
+  padding: 0  0.5em;
+  margin-right: 5px;
+}
+#navitem .BabyCare::after
+{
+  content: '|';
+  padding: 0  0.5em;
+}
+  #fonticon
+  {
+    color: #ff007f;
+    size: 50px;
+    margin-right: 10px;
+    margin-top:4px;
+    size: 28;
+  }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
